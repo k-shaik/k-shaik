@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaja_Shaik</h1>
 <h3 align="center">"Passionate About Cybersecurity: Navigating the Digital Frontier with Vigilance and Insight"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="k-shaik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-shaik" alt="k-shaik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/k_shaik2982" target="blank"><img src="https://img.shields.io/twitter/follow/k_shaik2982?logo=twitter&style=for-the-badge" alt="k_shaik2982" /></a> </p>
-
 - 🔭 I’m currently working on [VulnerabilitySense](https://github.com/k-shaik/VulnerabilitySense)
 
 - 🌱 I’m currently learning **Java Full Satck Devlopment**
